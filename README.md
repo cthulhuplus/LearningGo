@@ -1,6 +1,5 @@
 # Documenting Learning Golang
 ## TODO
-Put Go by Example explainations in comments in code for easy reference
 
 ## Notes
 Float / Floating-point constants
